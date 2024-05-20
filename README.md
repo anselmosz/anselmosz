@@ -16,7 +16,7 @@ I am a student at Web Development, driven by a curiosity for technology and a lo
 
 
 ## Tech Stack
-[![My Skills]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)
 
 ## 🌱 Currently Exploring
 
