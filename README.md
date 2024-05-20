@@ -2,7 +2,7 @@
 
 I am a student at Web Development, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of Web Designing, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github.com/doggyc0d3)
+![]()
 
 ## 🚀 About Me
 
