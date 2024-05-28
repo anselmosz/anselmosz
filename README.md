@@ -20,7 +20,7 @@ I am a student of Web Development, driven by a curiosity for technology and a lo
 -->
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,python)
 
 ## 🌱 Currently Exploring
 
