@@ -9,7 +9,7 @@ Sou um estudante movido por uma imensa curiosidade sobre o mundo da tecnologia e
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ans3lmo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=29C1E1&title_color=29C1E1&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ans3lmo&bg_color=000&border_color=30A3DC&title_color=29C1E1&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ans3lmo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=29C1E1&title_color=29C1E1&text_color=FFF) <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ans3lmo&bg_color=000&border_color=30A3DC&title_color=29C1E1&text_color=FFF) -->
 
 ## My Skills
 
