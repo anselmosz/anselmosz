@@ -10,7 +10,7 @@ Sou um estudante movido por uma imensa curiosidade sobre o mundo da tecnologia e
   - Fisrt steps with web technologies: *HTML, CSS, JS, Angular, etc.*
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ans3lmo&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=29C1E1&title_color=e1ff2d&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ans3lmo&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=e1ff2d&title_color=e1ff2d&text_color=FFF)
 
 ### My Skills
 [![My skills](https://skillicons.dev/icons?i=js,html,css,git,azure,aws)](https://skillicons.dev)
