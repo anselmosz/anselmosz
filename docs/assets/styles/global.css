@@ -82,3 +82,7 @@ footer {
     font-weight: 400;
   }
 }
+
+@media (width > 768 < 1024px) {
+  
+}
