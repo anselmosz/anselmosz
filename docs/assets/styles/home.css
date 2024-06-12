@@ -89,7 +89,7 @@ main {
           border-radius: 3rem;
           padding: 0.5rem 1rem;
           font-size: 1.5rem;
-          transition: 0.1s ease-in-out;
+          transition: 0.2s ease-in-out;
         }
 
         textarea {
@@ -101,7 +101,7 @@ main {
           font-size: 1.5rem;
           font-weight: 100;
           color: #f3f1ee;
-          transition: 0.1s ease-in-out;
+          transition: 0.2s ease-in-out;
         }
 
         input:hover, textarea:hover {
@@ -123,10 +123,10 @@ main {
           font-size: 1.5rem;
           font-weight: 100;
           cursor: pointer;
-          transition: 0.1s ease-in-out;
+          transition: 0.2s ease-in-out;
         }
 
-        button:hover and button:visited {
+        button:hover, button:visited {
           border: #90f208 solid 1px;
           color: #90f208;
         }
