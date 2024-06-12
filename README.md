@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Matheus S. Anselmo
+# Olá, eu sou Matheus S. Anselmo
 Sou um estudante movido por uma imensa curiosidade sobre o mundo da tecnologia e motivado por uma intensa paixão por arte e design.
 
 ### Connect with me!
