@@ -1,28 +1,32 @@
 /* Definições gerais da página */
+/*
+  Arquivo de configuração geral da página.
+
+  - Como não queria fazer páginas separadas para cada tópico, desenvolvi a página como landing page, separando apenas os arquivos de estilização com diferentes configurações ("global", "home" e "brakpoints")
+*/
+@import url(breakpoints.css);
 
 :root {
   font-size: 62.5%;
 }
 
-* {
+body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   color: #f3f1ff;
+  background-color: #252422;
 
-  body {
-    background-color: #252422;
+  ul, li, a {
+    text-decoration: none;
+    list-style-type: none;
+    color: #f3f1ff;
+  }
 
-    ul, li, a {
-      text-decoration: none;
-      list-style-type: none;
-      color: #f3f1ff;
-    }
-
-    input, textarea {
-      outline: none;
-    }
+  input, textarea {
+    outline: none;
   }
 }
+
 
 /* Header configurations */
 header {
@@ -31,7 +35,7 @@ header {
   max-width: 100%;
   background-color: transparent;
   backdrop-filter: blur(5px);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 0 10px #121212;
   z-index: 1000;
 
   nav {
@@ -83,6 +87,14 @@ footer {
   }
 }
 
-@media (width > 768 < 1024px) {
+/* Breakpoints da página */
+
+/* Breakpoin 1: para tablets e afins */
+@media (min-width > 768) and (max-width < 1024px){
+  
+}
+
+/* Breakpoin 1: para tablets e afins */
+@media (min-width > 768) and (max-width < 1024px){
   
 }
