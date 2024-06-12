@@ -6,7 +6,7 @@ Sou um estudante movido por uma imensa curiosidade pelo mundo da tecnologia e mo
 
 ### Currently exploring
 - Newbie at Front-End Development
-  - Practcing version control with Git
+  - Practicing version control with Git
   - Coding with HTML, CSS, JS, etc.
 
 ### GitHub Stats
