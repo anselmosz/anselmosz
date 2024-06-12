@@ -6,9 +6,9 @@ Sou um estudante movido por uma imensa curiosidade sobre o mundo da tecnologia e
 <!--
 ### Last deployments
 ![Workflow](https://github.com/Ans3lmo/ans3lmo/actions/workflows/pages/pages-build-deployment/badge.svg)
--->
-Meu portfolio é implementado pelo GitHub Pages, acompanhe o último deploy realizado acima.
 
+Meu portfolio é implementado pelo GitHub Pages, acompanhe o último deploy realizado acima.
+-->
 ### Currently exploring
 - Newbie at Front-End Development; learning at __Ada Tech__
   - Learning about *Version Control* concepts and practicies with Git
