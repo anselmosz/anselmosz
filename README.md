@@ -7,7 +7,7 @@ Sou um estudante movido por uma imensa curiosidade sobre o mundo da tecnologia e
 ### Currently exploring
 - Newbie at Front-End Development
   - Practcing version control with Git
-  - Coding with HTML, CSS, JS, Angular, etc.
+  - Coding with HTML, CSS, JS, etc.
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ans3lmo&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=90f208&title_color=90f208&text_color=FFF)
