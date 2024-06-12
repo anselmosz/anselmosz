@@ -1,0 +1,84 @@
+/* Definições gerais da página */
+
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f3f1ff;
+
+  body {
+    background-color: #252422;
+
+    ul, li, a {
+      text-decoration: none;
+      list-style-type: none;
+      color: #f3f1ff;
+    }
+
+    input, textarea {
+      outline: none;
+    }
+  }
+}
+
+/* Header configurations */
+header {
+  position: sticky;
+  top: 0;
+  max-width: 100%;
+  background-color: transparent;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.2rem 7rem;
+
+    .logo {
+      font-size: 3rem;
+      color: #90f208;
+    }
+
+    ul {
+      font-size: 2rem;
+      font-weight: 400;
+      display: flex;
+      justify-content: space-around;
+      gap: 1.5rem;
+
+      a {
+        border: transparent solid 0.2rem;
+        padding: 0.5rem;
+        border-radius: 2rem;
+        transition: 0.2s ease-in-out;
+        color: #f3f1ff;
+      }
+
+      a:hover {
+        border: #90f208 solid 0.2rem;
+        border-radius: 3rem;
+      }
+    }
+  }
+}
+
+/* Configurações do footer */
+
+footer {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 3rem 0;
+
+  h1 {
+    color: #f3f1ff;
+    font-size: 1.6rem;
+    font-weight: 400;
+  }
+}
