@@ -109,8 +109,8 @@ main {
         }
 
         input:focus, textarea:focus {
-          border: #90f208 solid 1px;
-          color: #f3f1ee;
+          border: #90f208 solid 2px;
+          color: #f3f1ff;
         }
 
         button {
@@ -126,7 +126,7 @@ main {
           transition: 0.2s ease-in-out;
         }
 
-        button:hover, button:visited {
+        button:hover {
           border: #90f208 solid 1px;
           color: #90f208;
         }
