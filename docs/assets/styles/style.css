@@ -1,8 +1,32 @@
-@import url(global.css);
+@import url(navigation.css);
 @import url(profile.css);
 @import url(about.css);
 @import url(contact.css);
+@import url(projects.css);
 
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f3f1ff;
+  
+  body {
+    background-color: #252422;
+
+    ul, li, a {
+      text-decoration: none;
+      list-style-type: none;
+      color: #f3f1ff;
+    }
+
+    input, textarea {
+      outline: none;
+    }
+  }
+}
 
 /* 
   Configuração dos breakpoints da página 

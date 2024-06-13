@@ -61,10 +61,13 @@ main {
         }
 
         .iconContainer:hover .iconText {
-          background-color: #90f208;
-          color: #000;
+          background-color: transparent;
+          border: #90f208 solid 1px;
+          color: #f3f1ee;
           transform: translateY(-50%), scaleX(1);
           opacity: 1;
+          backdrop-filter: blur(2px);
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
       }
     }
@@ -78,8 +81,8 @@ main {
         width: fit-content;
         display: grid;
         justify-content: flex-end;
-        border: #f3f1ff solid 1px;
-        border-radius: 2rem;
+        border: #90f208 solid 1px;
+        border-radius: 1rem;
         padding: 0rem 1rem 1rem 1rem;
 
         label {
@@ -114,14 +117,14 @@ main {
 
         input:focus, textarea:focus {
           border: #90f208 solid 1px;
-          color: #f3f1ff;
+          color: #90f208;
         }
 
         button {
           max-width: 30%;
           background-color: #252422;
           border: #f3f1ee solid 1px;
-          border-radius: 1.4rem;
+          border-radius: 1rem;
           padding: 0.7rem;
           color: #f3f1ee;
           font-size: 1.5rem;
