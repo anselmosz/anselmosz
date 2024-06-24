@@ -1,4 +1,4 @@
-# Helo, I'm Matheus S. Anselmo
+# Hello, I'm Matheus S. Anselmo
 
 I'm a Front-End development student driven by an intense curiosity for technology, coding and design.
 
