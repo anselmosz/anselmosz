@@ -16,4 +16,4 @@ My first contact with the world of technology occurred when studying computer ne
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ans3lmo&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=90f208&title_color=90f208&text_color=FFF)
 
 ### My Skills
-[![My skills](https://skillicons.dev/icons?i=js,react,html,css,git,azure,aws)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,js,git,azure,aws)](https://skillicons.dev)
