@@ -2,7 +2,7 @@
 Sou um estudante de desenvolvimento web motivado por um grande fascínio pela tecnologia, programação e design.
 
 ### Resumo
-Meu primeiro contato com este mundo ocorreu durante minha formação técnica em redes. Desde então, venho aperfeiçoando meus conhecimentos e buscando oportunidades para aplicar minhas habilidades.
+Meu primeiro contato com este mundo ocorreu durante minha formação técnica em redes. Estou atualmente cursando Desenvolvimento de Sistemas pelo Senac,onde  venho aperfeiçoando meus conhecimentos e buscando novas oportunidades e desafios para aplicar minhas habilidades e conhecimentos.
 
 ### Conecte-se!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c3f8)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=18c3f8)](mailto:anselmoma2005@outlook.com) [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=18c3f8)](mailto:anselmo.souza2005@gmail.com)
