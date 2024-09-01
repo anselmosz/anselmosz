@@ -1,5 +1,5 @@
 # Matheus S. Anselmo
-Sou um estudante de desenvolvimento web motivado por um grande fascínio pela tecnologia, programação e design.
+Sou um estudante de desenvolvimento de sistemas motivado por um grande fascínio pela tecnologia, programação e design.
 
 ### Resumo
 Meu primeiro contato com este mundo ocorreu durante minha formação técnica em redes. Estou atualmente cursando Desenvolvimento de Sistemas pelo Senac, onde venho aperfeiçoando meus conhecimentos e buscando novas oportunidades e desafios para aplicar minhas habilidades e conhecimentos.
