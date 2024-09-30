@@ -9,10 +9,8 @@ Meu primeiro contato com este mundo ocorreu durante minha formação técnica em
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anselmo-Ma&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=18c3f8&title_color=18c3f8&text_color=FFF) 
-
-<!--
-### My Skills
-[![My skills](https://skillicons.dev/icons?i=html,css,js,cs,react,dotnet,git,azure,docker)](https://skillicons.dev)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF)
--->
+
+
+### My Skills
+[![My skills](https://skillicons.dev/icons?i=html,css,js,react,git,azure,aws)](https://skillicons.dev)
