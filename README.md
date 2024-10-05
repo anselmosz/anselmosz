@@ -2,7 +2,7 @@
 Sou um estudante de desenvolvimento de sistemas motivado por um grande fascínio pela tecnologia, programação e design.
 
 ### Resumo
-Meu primeiro contato com este mundo ocorreu durante minha formação técnica em redes. Estou atualmente cursando Desenvolvimento de Sistemas pelo Senac, onde venho aperfeiçoando meus conhecimentos e buscando novas oportunidades e desafios para aplicar minhas habilidades e conhecimentos.
+Meu primeiro contato com este mundo ocorreu durante minha formação técnica em redes. Estou atualmente cursando Desenvolvimento de Sistemas pelo Senac, onde venho aperfeiçoando minhas competências e buscando novas oportunidades e desafios para aplicar minhas habilidades e conhecimentos.
 
 ### Conecte-se!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c3f8)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/) 
@@ -12,5 +12,5 @@ Meu primeiro contato com este mundo ocorreu durante minha formação técnica em
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF)
 
 
-### My Skills
+### Minhas habilidades
 [![My skills](https://skillicons.dev/icons?i=html,css,js,react,git,azure,aws)](https://skillicons.dev)
