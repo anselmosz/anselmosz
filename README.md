@@ -8,9 +8,9 @@ Meu primeiro contato com este mundo ocorreu durante minha formação técnica em
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c3f8)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/) 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anselmo-Ma&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=18c3f8&title_color=18c3f8&text_color=FFF) 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anselmo-Ma&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anselmo-Ma&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=18c3f8&title_color=18c3f8&text_color=FFF)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anselmo-Ma&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF)
 
 ### Minhas habilidades
 [![My skills](https://skillicons.dev/icons?i=html,css,js,react,git,azure,aws)](https://skillicons.dev)
