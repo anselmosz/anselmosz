@@ -1,5 +1,5 @@
 ## Olá! Eu sou Matheus 👋
-Sou um estudante de desenvolvimento de sistemas motivado por um grande fascínio pela tecnologia, programação e design.
+Sou um estudante de Desenvolvimento de Sistemas motivado por um grande fascínio pela tecnologia, programação e design.
 
 ### Resumo
 Meu primeiro contato com este mundo ocorreu durante minha formação técnica em redes. Estou atualmente cursando Desenvolvimento de Sistemas pelo Senac, onde venho aperfeiçoando minhas competências e buscando novas oportunidades e desafios para aplicar minhas habilidades e conhecimentos.
