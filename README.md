@@ -13,4 +13,4 @@ Meu primeiro contato com este mundo ocorreu durante minha formação técnica em
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anselmo-Ma&layout=compact&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF)
 
 ### Minhas habilidades
-[![My skills](https://skillicons.dev/icons?i=html,css,js,react,git,azure,aws)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=html,css,js,python,git,azure,aws)](https://skillicons.dev)
