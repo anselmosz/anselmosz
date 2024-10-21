@@ -2,7 +2,11 @@
 Sou um estudante de Desenvolvimento de Sistemas motivado por um grande fascínio pela tecnologia, programação e design.
 
 ### Resumo
-Meu primeiro contato com este mundo ocorreu durante minha formação técnica em redes. Estou atualmente cursando Desenvolvimento de Sistemas pelo Senac, onde venho aperfeiçoando minhas competências e buscando novas oportunidades e desafios para aplicar minhas habilidades e conhecimentos.
+Atualmente curso Desenvolvimento de Sistemas com o objetivo de me tornar um Desenvolvedor Front-End.
+
+Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias web, incluindo __HTML, CSS, JavaScript e Python__, além de explorar plataformas de computação em nuvem como __Azure e AWS__.
+
+Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
 
 ### Conecte-se!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c3f8)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/) 
