@@ -4,9 +4,9 @@ Sou um estudante de Desenvolvimento de Sistemas motivado por um grande fascínio
 ### GitHub Stats
 <div align="start">
   <a href="https://github.com/Anselmo-Ma">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&theme=dark&border_color=000&show_icons=true" alt="anselmosz's Github Stats"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&theme=dark&border_color=000&show_icons=true" alt="anselmosz's Github Stats" />
     <!-- 
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anselmosz&theme=dracula&layout=compact&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF&langs_count=8&card_width=320" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anselmosz&theme=dracula&layout=compact&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF&langs_count=8&card_width=320" />
     -->
   </a>
 </div>
