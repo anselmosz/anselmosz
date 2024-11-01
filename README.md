@@ -1,20 +1,33 @@
 ## Olá! Eu sou Matheus 👋
 Sou um estudante de Desenvolvimento de Sistemas motivado por um grande fascínio pela tecnologia, programação e design.
 
-### Resumo
-Atualmente curso Desenvolvimento de Sistemas com o objetivo de me tornar um Desenvolvedor Front-End.
-
-Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias web, incluindo __HTML, CSS, JavaScript e Python__, além de explorar plataformas de computação em nuvem como __Azure e AWS__.
-
-Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
-
-### Conecte-se!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c3f8)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/) 
-
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anselmo-Ma&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=18c3f8&title_color=18c3f8&text_color=FFF)
+<div align="start">
+  <a href="https://github.com/Anselmo-Ma">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anselmo-ma&show_icons=true&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=18c3f8&title_color=18c3f8&text_color=FFF" />
+    <!-- 
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anselmo-Ma&theme=dracula&layout=compact&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF&langs_count=8&card_width=320" />
+    -->
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anselmo-Ma&layout=compact&bg_color=000&border_color=FFF&title_color=18c3f8&text_color=FFF)
+### Veja minhas atividades no Linkedin
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/) 
 
-### Minhas habilidades
-[![My skills](https://skillicons.dev/icons?i=html,css,js,python,git,azure,aws)](https://skillicons.dev)
+##
+
+### 🛠 Linguagens e ferramentas
+<div>
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
+
+### 📚 Estou aprendendo  
+<div>
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo"  />
+</div>
