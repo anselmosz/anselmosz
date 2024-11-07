@@ -6,7 +6,7 @@ Sou um estudante de Desenvolvimento de Sistemas motivado por um grande fascínio
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anselmosz&theme=dark&border_color=000&show_icons=true) <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000&show_icons=true) -->
 
 ### Veja minhas atividades no Linkedin
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c1f3)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
 
 ##
 
