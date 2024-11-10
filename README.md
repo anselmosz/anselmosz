@@ -5,7 +5,15 @@ Tenho 19 anos, atualmente curso Desenvolvimento de Sistemas com o objetivo de me
 Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias web, incluindo HTML, CSS, JavaScript e Python, além de explorar plataformas de computação em nuvem como Azure e AWS.
 
 Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
+##
 
+<div align="center">
+  <a href="https://github.com/anselmosz">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anselmosz&theme=dark&layout=compact&langs_count=8&card_width=220" />
+  </a>
+</div>
+    
 ##
 
 ### Linguagens e ferramentas
@@ -27,10 +35,4 @@ Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologi
 #### Veja minhas atividades no Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c1f3)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
 
-##
 
-<div align="start">
-  <a href="https://github.com/anselmosz">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anselmosz&theme=dark&border_color=000&layout=compact&langs_count=8&card_width=320" />
-</div>
