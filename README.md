@@ -29,8 +29,6 @@ Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologi
 
 ##
 
-### GitHub Stats
-
 <div align="start">
   <a href="https://github.com/anselmosz">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
