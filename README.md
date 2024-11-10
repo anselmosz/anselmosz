@@ -5,15 +5,16 @@ Tenho 19 anos, atualmente curso Desenvolvimento de Sistemas com o objetivo de me
 Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias web, incluindo HTML, CSS, JavaScript e Python, além de explorar plataformas de computação em nuvem como Azure e AWS.
 
 Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
+
 ##
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/anselmosz">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anselmosz&theme=dark&layout=compact&langs_count=8&card_width=220" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
+    <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000" />
   </a>
 </div>
-    
+  
 ##
 
 ### Linguagens e ferramentas
