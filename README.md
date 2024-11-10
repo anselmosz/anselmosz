@@ -1,12 +1,10 @@
 ## Olá! Eu sou Matheus 👋
-Sou um estudante de Desenvolvimento de Sistemas motivado por um grande fascínio pela tecnologia, programação e design.
 
-### GitHub Stats
+Tenho 19 anos, atualmente curso Desenvolvimento de Sistemas com o objetivo de me tornar um desenvolvedor Front-End.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anselmosz&theme=dark&border_color=000&show_icons=true) <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000&show_icons=true) -->
+Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias web, incluindo HTML, CSS, JavaScript e Python, além de explorar plataformas de computação em nuvem como Azure e AWS.
 
-### Veja minhas atividades no Linkedin
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c1f3)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
+Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
 
 ##
 
@@ -26,11 +24,15 @@ Sou um estudante de Desenvolvimento de Sistemas motivado por um grande fascínio
   <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-## 
+#### Veja minhas atividades no Linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=18c1f3)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
 
-### Últimas contribuições
+##
+
+### GitHub Stats
+
 <div align="start">
-  <a href="https://github.com/Anselmo-Ma">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anselmosz&theme=dark" alt="anselmosz's GitHub Achievements" />
-  </a>
+  <a href="https://github.com/anselmosz">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anselmosz&theme=dark&border_color=000&layout=compact&langs_count=8&card_width=320" />
 </div>
