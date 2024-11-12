@@ -14,8 +14,8 @@ Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologi
 
 <div align="start">
   <a href="https://github.com/anselmosz">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000" />
   </a>
 </div>
   
