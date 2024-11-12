@@ -7,13 +7,12 @@ Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias we
 Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
 
 ### Veja minhas atividades em redes sociais
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/anselmosz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/anselmoszm/profilecard/?igsh=MWxyeThvYTlibXhkZg==)
 
 ##
 
-<div align="start">
+<div align="center">
   <a href="https://github.com/anselmosz">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000" />
