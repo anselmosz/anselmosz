@@ -6,10 +6,13 @@ Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias we
 
 Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
 
-### Veja minhas atividades em redes sociais
+### Veja minhas atividades em redes sociais ou entre em contato
+[![EMAIL](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:anselmoma2005@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/matheus-souza-anselmo-aba10a215/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/anselmoszm/profilecard/?igsh=MWxyeThvYTlibXhkZg==)
-
+<!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)](https://)
+-->
 ##
 
 <div align="center">
