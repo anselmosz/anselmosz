@@ -9,7 +9,6 @@ Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologi
 ### Veja minhas atividades em redes sociais ou entre em contato
 [![EMAIL](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:anselmoma2005@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/anselmosz-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/anselmoszm/profilecard/?igsh=MWxyeThvYTlibXhkZg==)
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)](https://)
 -->
