@@ -1,8 +1,8 @@
 ## Olá! Eu sou Matheus 👋
 
-Tenho 19 anos, atualmente curso Desenvolvimento de Sistemas com o objetivo de me tornar um desenvolvedor Front-End.
+Atualmente realizo o curso técnico em Desenvolvimento de Sistemas com o objetivo de me tornar um desenvolvedor web e poder criar soluções inovadoras.
 
-Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias web, incluindo HTML, CSS, JavaScript e Python, além de explorar plataformas de computação em nuvem como Azure e AWS.
+Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias para web, incluindo, JavaScript e aprender frameworks como React.js, além de explorar plataformas de computação em nuvem como Azure e AWS.
 
 Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
 
