@@ -1,36 +1,44 @@
 ## Olá! Eu sou Matheus 👋
 
-Atualmente realizo o curso técnico em Desenvolvimento de Sistemas com o objetivo de me tornar um desenvolvedor web e poder criar soluções inovadoras.
+### Sobre mim
+Estudo Desenvolvimento de Sistemas pelo Senac-SP e sou um completo apaixonado por tecnologia e desafios, em um ciclo de constante aprendizado
 
-Nos últimos tempos, tenho concentrado meus esforços em aprender tecnologias para web, incluindo, JavaScript e aprender frameworks como React.js, além de explorar plataformas de computação em nuvem como Azure e AWS.
+Minha jornada soma os conceitos de infraestrutura da minha formação em redes pelo Senai-SP com a lógica e inovação do desenvolvimento de software.
 
-Minha formação em Redes me proporcionou uma base sólida no mundo da tecnologia, permitindo-me entender diversos conceitos. No entanto, ao começar a desenvolver meus primeiros projetos web, percebi que meu verdadeiro foco é criar designs e páginas visualmente atraentes.
 
-### Veja minhas atividades em redes sociais ou entre em contato
-[![EMAIL](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:anselmoma2005@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/anselmosz-dev/)
+### Conecte-se comigo
+##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D84B5?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/anselmosz-dev/)
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)](https://)
 -->
-##
-
-<div align="center">
-  <a href="https://github.com/anselmosz">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&border_color=000" />
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000" />
-  </a>
-</div>
-  
-##
 
 ### Linguagens e ferramentas
+##
+<div style="gap: 30">
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />        
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />           
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />            
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />        
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+          
+          
+</div>
+
+### Estatístcas
+##
+
 <div>
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <a href="https://github.com/anselmosz">
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmosz&layout=compact&theme=dark&border_color=000" />
+  </a>
 </div>
