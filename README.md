@@ -3,6 +3,8 @@
 ### Sobre mim
 Estudo Desenvolvimento de Sistemas pelo Senac-SP e sou um completo apaixonado por tecnologia e desafios, em um ciclo de constante aprendizado
 
+Atualmente, estou focando meus estudos em desenvolvimento back-end com foco em NodeJS
+
 Minha jornada soma os conceitos de infraestrutura da minha formação em redes pelo Senai-SP com a lógica e inovação do desenvolvimento de software.
 
 
@@ -23,9 +25,7 @@ Minha jornada soma os conceitos de infraestrutura da minha formação em redes p
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />        
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />           
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />            
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />             
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />        
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
