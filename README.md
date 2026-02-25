@@ -1,9 +1,9 @@
 ## Olá! Eu sou Matheus 👋
 
 ### Sobre mim
-Estudante de Egenharia de Software, com foco em desenvolvimento backend e banco de dados relacionais.
+Estudande de Engenharia de Software com foco em desenvolvimento backend. Atualmente, aprofundo meus conhecimentos na criação de soluções inovadoras de softwares utilizando JS, Node, C#, .NET e bancos de dados relacionais, além de explorar boas práticas de desenvolvimento e arquitetura. 
 
-Atualmente tenho direcionado meus estudos e projetos para construção de APIs e sistemas utilizando Node.js, com integração a bancos como MySQL e MariaDB. Busco evoluir constantemente em arquitetura de software, modelagem de dados, segurança e boas práticas de desenvolvimento.
+Busco constantemente inovação, aprendendo novas tecnologias e aplicando-as em projetos práticos. Estou aberto a conexões, colaborações e oportunidades na área de desenvolvimento backend e cloud computing.
 
 ### Conecte-se comigo
 ##
