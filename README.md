@@ -37,18 +37,6 @@ Busco constantemente inovação, aprendendo novas tecnologias e aplicando-as em 
 
 ---
 
-### 📌 Projetos em destaque
-
-🔹 **Task Feedback API**  
-API REST para coleta e análise de feedback de clientes  
-- Autenticação com JWT  
-- Arquitetura em camadas  
-- Controle de usuários e permissões  
-
-👉 ([link do repositório](https://github.com/anselmosz/task-feedback-API))
-
----
-
 ### 📈 Estatístcas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark)
