@@ -41,14 +41,17 @@ Busco constantemente inovação, aprendendo novas tecnologias e aplicando-as em 
 
 ### 📈 Estatístcas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anselmosz&show_icons=true&theme=dark)
+<p>
+  <img 
+    align="left" 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=anselmosz&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+  />
 
----
-
-### 📚 Atualmente estudando
-
-- Arquitetura de software  
-- Boas práticas de backend  
-- .NET e C# 
-- Integração de APIs  
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anselmosz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+  />
+</p>
 
