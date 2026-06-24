@@ -14,7 +14,7 @@ Gosto de transformar necessidades de negócio em soluções técnicas, sempre co
 Busco constantemente inovação, aprendendo novas tecnologias e aplicando-as em projetos práticos. Estou aberto a conexões, colaborações e oportunidades na área de desenvolvimento backend e cloud computing.
 
 ### Contato
-- ***LinkedIn:** [anselmomatheus](https://www.linkedin.com/in/anselmomatheus/)
+- **LinkedIn:** [anselmomatheus](https://www.linkedin.com/in/anselmomatheus/)
 - **Email:** [anselmoma2005@outlook.com](mailto:anselmoma2005@outlook.com)
 
 ### Experiência
