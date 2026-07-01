@@ -1,8 +1,10 @@
 ## Olá! Eu sou Matheus Anselmo 👋
 
 🎓 Estudante de Engenharia de Software
-💻 Desenvolvimento de Software • APIs • Automação • Cloud
-🚀 Em busca de oportunidades em Tecnologia
+
+💻 Desenvolvimento de Software • APIs REST • Automação • Cloud
+
+🚀 Em busca de oportunidades em tecnologia
 
 ### Sobre mim
 Estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas, com experiência profissional em suporte técnico para plataforma SaaS.
